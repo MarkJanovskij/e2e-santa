@@ -1,0 +1,22 @@
+{
+  "userAutor": {
+    "email": "markyanovskiy@gmail.com",
+    "password": "test1234",
+    "name": "Mark Janovskij"
+  },
+  "user1": {
+    "email": "markvidermv@gmail.com",
+    "password": "test1234",
+    "name": "Mark 1"
+  },
+  "user2": {
+    "email": "robotclicbot.eu@gmail.com",
+    "password": "test1234",
+    "name": "robotclicbot.eu"
+  },
+  "user3": {
+    "email": "robotclicbot.cz@gmail.com",
+    "password": "test1234",
+    "name": "robotclicbot.cz"
+  }
+}

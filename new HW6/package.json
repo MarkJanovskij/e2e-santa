@@ -1,0 +1,17 @@
+{
+  "name": "e2e-santa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:run": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.2.0",
+    "@faker-js/faker": "^7.6.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
