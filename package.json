@@ -1,5 +1,15 @@
 {
+  "name": "6HW",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:run": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "cypress": "^13.6.6"
+    "cypress": "^12.2.0",
+    "@faker-js/faker": "^7.6.0"
   }
 }

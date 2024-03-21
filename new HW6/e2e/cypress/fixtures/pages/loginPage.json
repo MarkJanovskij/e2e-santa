@@ -1,4 +1,0 @@
-{
-  "loginField": ":nth-child(3) > .frm",
-  "passwordField": ":nth-child(4) > .frm"
-}
